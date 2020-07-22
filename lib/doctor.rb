@@ -24,5 +24,6 @@ class Doctor
 
   appointments.map do |s|
     s.genres
+  end
     end
 end
